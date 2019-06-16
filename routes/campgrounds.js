@@ -26,9 +26,9 @@ var upload = multer({
 
 var cloudinary = require('cloudinary');
 cloudinary.config({
-	cloud_name: 'Cloudinary Cloud Name Here',
-	api_key: 'Your cloudinary API here',
-	api_secret: 'Your Cloudinary API secret here'
+	cloud_name: 'soulcloud',
+	api_key: process.env.CLOUDINARY_API_KEY,
+	api_secret: process.env.CLOUDINARY_API_SECRET
 });
 
 // INDEX - Show all campgrounds
