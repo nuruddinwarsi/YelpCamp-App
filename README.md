@@ -9,7 +9,7 @@ To run the application you will need to install the following applications
 * [NodeJS Download](https://nodejs.org/en/download/)
 
 2. MongoDB
-* [MongoDB download](https://www.mongodb.com/)
+* [MongoDB](https://www.mongodb.com/)
 ```
 Either install it on a local machine or use MongoDB cloud cluster Atlas
 ```
