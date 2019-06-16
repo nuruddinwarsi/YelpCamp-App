@@ -2,7 +2,7 @@
 
 YelpCamp is a campground review website for users to add,review, rate and comment on campgrounds. 
 
-##Prerequisites
+#Prerequisites
 
 To run the application you will need to install the following applications
 1. NodeJS
@@ -15,7 +15,7 @@ https://nodejs.org/en/download/
 Either install it on a local machine or use MongoDB cloud cluster Atlas
 ```
 
-###Installing
+#Installing
 
 Once you have the prerequisites installed, you can start by installing npm packages
 
